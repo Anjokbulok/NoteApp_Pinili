@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NoteApp_Pinili</string>
+    <string name="title_activity_edit_note_screen">EditNoteScreen</string>
 </resources>
