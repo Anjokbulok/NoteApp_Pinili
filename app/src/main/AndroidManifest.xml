@@ -12,6 +12,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.NoteApp_Pinili">
         <activity
+            android:name=".EditNoteScreen"
+            android:exported="false"
+            android:label="@string/title_activity_edit_note_screen"
+            android:theme="@style/Theme.NoteApp_Pinili" />
+        <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
